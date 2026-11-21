@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37627.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR_4_LAPSHINA_BPI_24_01", "LR_4_LAPSHINA_BPI_24_01\LR_4_LAPSHINA_BPI_24_01.csproj", "{D8D1E186-9D0A-4459-AC20-90CE2D14639E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8D1E186-9D0A-4459-AC20-90CE2D14639E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D1E186-9D0A-4459-AC20-90CE2D14639E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D1E186-9D0A-4459-AC20-90CE2D14639E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D1E186-9D0A-4459-AC20-90CE2D14639E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C6A244C-87FD-447F-8EDB-5D37601C4D8F}
+	EndGlobalSection
+EndGlobal
